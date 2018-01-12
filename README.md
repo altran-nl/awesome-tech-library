@@ -2,11 +2,11 @@
 
 A collection of awesome tech related books.
 
-![Developer testing](DeveloperTesting.jpg)  
-![Agile software development](AgileSoftwareDevelopment.jpg)
-![Agile testing](AgileTesting.jpg)
-![BDD in action](BDDInAction.jpg) 
-![Build quality in](BuildQualityIn.jpg)
-![Clean architecture](CleanArchitecture.jpg)
-![Clean code](CleanCode.jpg)
-![Coders at work](CodersAtWork.jpg)
+![Developer testing](./png-150-200/DeveloperTesting.png)  
+![Agile software development](./png-150-200/AgileSoftwareDevelopment.png)
+![Agile testing](./png-150-200/AgileTesting.png)
+![BDD in action](./png-150-200/BDDInAction.png) 
+![Build quality in](./png-150-200/BuildQualityIn.png)
+![Clean architecture](./png-150-200/CleanArchitecture.png)
+![Clean code](./png-150-200/CleanCode.png)
+![Coders at work](./png-150-200/CodersAtWork.png)
